@@ -1,3 +1,11 @@
-<div class="hb-module text-center bg-primary text-white p-3">
-  CUSTOM SIDEBAR WIDGET
-</div>
+<!-- Put this script tag to the <head> of your page -->
+  <script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+  <script type="text/javascript">
+    VK.init({ apiId: 51827095, onlyWidgets: true });
+  </script>
+  
+  <!-- Put this div tag to the place, where the Poll block will be -->
+  <div id="vk_poll"></div>
+  <script type="text/javascript">
+    VK.Widgets.Poll("vk_poll", {}, "919586345_e1c82b0ca5a3c0e229");
+  </script>
