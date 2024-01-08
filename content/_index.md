@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: Личный блог | LencoDigitexer
 # menu:
 #   main:
 #     name: Home

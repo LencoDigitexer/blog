@@ -1,1 +1,2 @@
 // This script will be compiled into the JS bundle automatically.
+(function (e, t, n, s, o, i, a) { e[o] = e[o] || function () { (e[o].a = e[o].a || []).push(arguments) }, e[o].l = 1 * new Date; for (var r = 0; r < document.scripts.length; r++)if (document.scripts[r].src === s) return; i = t.createElement(n), a = t.getElementsByTagName(n)[0], i.async = 1, i.src = s, a.parentNode.insertBefore(i, a) })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"), ym(94966734, "init", { clickmap: !0, trackLinks: !0, accurateTrackBounce: !0, webvisor: !0 })
